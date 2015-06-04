@@ -10,7 +10,7 @@
 
     <properties>
         <bluecove.version>2.1.0</bluecove.version>
-        <entry.point>com.github.dan.pclient.EntryPoint</entry.point>
+        <entry.point>com.github.dan.city.EntryPoint</entry.point>
     </properties>
 
     <build>
